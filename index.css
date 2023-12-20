@@ -1,0 +1,24 @@
+.nav-wrapper{
+
+}
+.container{
+    background-color: white;
+    width: 60%;
+    margin: 10px auto;
+}
+.nav ul{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+.nav ul li a:hover{
+    background-color: cyan;
+    border-radius: 20%;
+}
+/* =====img==== */
